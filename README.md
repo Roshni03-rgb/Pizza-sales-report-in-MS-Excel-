@@ -51,11 +51,10 @@ The dashboard answers key business questions such as:
 
 The dashboard includes dynamic slicers for:
 
-* 📅 Day of Week
+* 📅 Day 
 * 📆 Month
 * 📏 Pizza Size
 
-These filters allow users to explore sales performance from different perspectives in real time.
 
 ---
 
@@ -86,7 +85,7 @@ These filters allow users to explore sales performance from different perspectiv
 
 ## 📷 Dashboard Preview
 
-![Pizza Sales Dashboard](Excel report 2.png)
+[Pizza Sales Dashboard] Excel report 2.png
 
 
 ---

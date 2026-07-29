@@ -86,7 +86,7 @@ These filters allow users to explore sales performance from different perspectiv
 
 ## 📷 Dashboard Preview
 
-
+![Pizza Sales Dashboard](images/pizza-sales-dashboard.png)
 
 
 ---
